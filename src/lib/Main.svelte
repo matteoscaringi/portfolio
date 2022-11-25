@@ -2,6 +2,8 @@
     import "../app.css";
 
     import Icon from "@iconify/svelte";
+
+    import PFP from "../../public/PFP.jpg"
 </script>
 
 <header class="h-screen">
@@ -11,7 +13,7 @@
     >
         <div class="flex w-full h-full items-center justify-center">
             <img
-                src="/public/PFP.jpg"
+                src="{PFP}"
                 alt="Mato"
                 class="block h-[370px] w-[370px] rounded-3xl align-middle mx-[30px] ml-[150px]"
             />
