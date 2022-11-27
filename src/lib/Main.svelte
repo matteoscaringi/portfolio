@@ -25,8 +25,12 @@
                 class="flex flex-grow flex-col justify-center items-end mr-[74px] text-3xl gap-4"
             >
                 <Icon icon="simple-icons:discord" color="white" />
-                <Icon icon="simple-icons:twitter" color="white" />
-                <Icon icon="simple-icons:github" color="white" />
+                <a href="https://twitter.com/matte0_s">
+                    <Icon icon="simple-icons:twitter" color="white" />
+                </a>
+                <a href="https://github.com/matteoscaringi">
+                    <Icon icon="simple-icons:github" color="white" />
+                </a>
             </div>
         </div>
     </div>
@@ -34,10 +38,7 @@
     <div
         class="absolute bottom-0 left-0 h-[40px] w-full flex justify-center items-center text-6xl mb-[25px] animate-bounce"
     >
-        <a
-            href="#projects"
-            class="scroll-smooth"
-        >
+        <a href="#projects" class="scroll-smooth">
             <Icon icon="ic:round-chevron-right" color="white" rotate={1} />
         </a>
     </div>
