@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.font{
-    font-family: 'Montserrat', sans-serif;
+.font {
+  font-family: "Montserrat", sans-serif;
 }
 
-html{
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
 }

@@ -6,9 +6,6 @@
 </script>
 
 <header class="h-auto bg-gradient-to-tr from-[#3b5292] to-[#8a96b4]">
-  <Main/>
-  <Projects/>
+  <Main />
+  <Projects />
 </header>
-
-
-
