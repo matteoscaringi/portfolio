@@ -12,7 +12,7 @@
     <img
       src={PFP}
       alt="Mato"
-      class="block max-h-[370px] w-full max-w-[370px] rounded-3xl align-middle md:mx-[30px] lg:ml-[150px] flex-shrink"
+      class="block max-h-[370px] w-full max-w-[370px] flex-shrink rounded-3xl align-middle md:mx-[30px] lg:ml-[150px]"
     />
 
     <div class="text-xl text-white">
@@ -26,10 +26,18 @@
       class=" flex flex-row items-end justify-center gap-4 text-3xl md:mt-0 md:mr-[74px] md:flex-grow md:flex-col"
     >
       <Icon icon="simple-icons:discord" color="white" />
-      <a href="https://twitter.com/matte0_s" target="_blank" rel="noreferrer noopener">
+      <a
+        href="https://twitter.com/matte0_s"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         <Icon icon="simple-icons:twitter" color="white" />
       </a>
-      <a href="https://github.com/matteoscaringi" target="_blank" rel="noreferrer noopener">
+      <a
+        href="https://github.com/matteoscaringi"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         <Icon icon="simple-icons:github" color="white" />
       </a>
     </div>
